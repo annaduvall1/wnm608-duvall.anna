@@ -1,3 +1,5 @@
-# aau-wnm608
+# wnm608_files
+ 
+Hello. This is Anna. I am setting up my first project.
 
-This is the Read Me File that I created
+Thank you.
